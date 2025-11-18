@@ -26,7 +26,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.18.2",
     "multer": "^2.0.2",
-    "zod": "^4.1.11"
+    "zod": "^4.1.11",
+    "uuid": "^11.1.0"
   },
   "type": "module",
   "devDependencies": {
@@ -35,3 +36,4 @@
     "zod": "4.1.11"
   }
 }
+
