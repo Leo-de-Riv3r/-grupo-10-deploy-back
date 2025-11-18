@@ -1,0 +1,9 @@
+
+export const EstadoPedido = Object.freeze({
+    PENDIENTE: "PENDIENTE",
+    CONFIRMADO: "CONFIRMADO",
+    EN_PREPARACION: "EN_PREPARACION",
+    ENVIADO: "ENVIADO",
+    ENTREGADO: "ENTREGADO",
+    CANCELADO: "CANCELADO"
+})
